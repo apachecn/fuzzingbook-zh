@@ -4,7 +4,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 想在自己的代码里找出一个错误是十分困难的。而当你认为你的代码没有错误时，那就更难了。——Steve McConnel
 
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
